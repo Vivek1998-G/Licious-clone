@@ -1,0 +1,83 @@
+.list{
+   
+    margin-left: 100px; 
+}
+.containerr{
+    background-color:aliceblue;
+  
+  
+}
+.a{
+    margin-top: 60px;
+margin-left: 50px;
+
+}
+.top{
+  
+    margin-top: 20px;
+    margin-bottom: 30px;
+    margin-left:50px ;
+    font-weight: bold;
+      display: inline-flex;
+      flex-direction: row;
+     
+}
+h5{
+    margin-top: 10px;
+}
+h2{
+    margin-left: 100px;
+}
+.sc{
+    color: lightgray;
+    text-align: center;
+}
+h6{
+    margin-top: 30px;
+}
+img{
+    border-radius: 15px;
+}
+.imgg{
+margin-left: 140px;
+}
+.news{
+    margin-top: 70px;
+    margin-left: 140px;
+}.card{
+    width: 150px;
+    border: 0px;
+    
+}
+Link{
+    margin-top: 30px;
+color:  black;
+}
+.cardd{
+    width: 300px;
+    border: 0px;
+    margin-left: 50px;
+}
+.topp{
+  
+    margin-top: 20px;
+    margin-bottom: 30px;
+    margin-left: 1px;
+      display: inline-flex;
+      flex-direction: row;
+     
+}
+p{
+    margin-bottom: 1px;
+    color:darkgray
+}
+.car{
+    color:black
+}
+.carddd{
+margin-top: 30px;
+width: 100px;
+}
+.carousel-indicators .active {
+  background-color: #ff7a54;
+}
